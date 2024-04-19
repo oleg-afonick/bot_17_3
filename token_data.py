@@ -1,0 +1,2 @@
+OPENW_TOKEN = ''
+TOKEN = ''
